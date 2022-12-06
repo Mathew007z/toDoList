@@ -1,0 +1,37 @@
+.container {
+    display: flex;
+    flex-direction:row;
+    width: 100vw;
+    padding-bottom: 5px;
+    border-bottom: 3px solid whitesmoke;
+    justify-content: space-evenly;
+    border-bottom: 1px solid #000;
+    
+  }
+
+  .nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: whitesmoke;
+    border: solid 2px whitesmoke;
+    height: 40px;
+    position: relative;
+    border-radius: 5px;
+    margin: 20px;
+    
+  }
+
+  .productos{
+    margin-left: 2em;
+    
+    
+  }
+  
+
+
+
+
+
+
+

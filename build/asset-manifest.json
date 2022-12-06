@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e9965268.css",
+    "main.js": "/static/js/main.9287dd4d.js",
+    "static/media/La-piedra-filosofal.jpg": "/static/media/La-piedra-filosofal.64cadf14076e285b0881.jpg",
+    "static/media/bootstrap-icons.woff?": "/static/media/bootstrap-icons.6959d0d983ee318f8880.woff",
+    "static/media/bootstrap-icons.woff2?": "/static/media/bootstrap-icons.b2e5aab643c6f0fd2da6.woff2",
+    "static/media/Inicio.jpg": "/static/media/Inicio.20a6373abf397a99da45.jpg",
+    "index.html": "/index.html",
+    "main.e9965268.css.map": "/static/css/main.e9965268.css.map",
+    "main.9287dd4d.js.map": "/static/js/main.9287dd4d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9965268.css",
+    "static/js/main.9287dd4d.js"
+  ]
+}

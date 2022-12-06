@@ -1,0 +1,16 @@
+.contain-card{
+    border: 1px solid #000;
+}
+
+.image{
+    width: 250px;
+}
+
+.paraGp{
+    text-align: center;
+}
+
+.button{
+    padding: 5px 10px 5px 10px;
+    margin-left: 6em;
+}
