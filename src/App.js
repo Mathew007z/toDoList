@@ -8,6 +8,7 @@ import UpdateForm from './componentes/UpdateForm/UpdateForm';
 
 
 
+
 const getLocalStorage = () =>{
   let toDo = localStorage.getItem('toDo');
   if(toDo){
@@ -93,7 +94,7 @@ const updateTask = () => {
   return (
 
     <div className='container App'>
-      <h2>To Do List</h2>
+      <h2 className='title-tareas'>Tareas Pendientes</h2>
 
      
       {updateData && updateData ? (
@@ -113,7 +114,7 @@ const updateTask = () => {
         />
       )}
    
-      {toDo && toDo.length ? ' ' : 'No tasks'}
+      {toDo && toDo.length ? ' ' : 'No Hay Tareas Pendientes'}
         <ToDo
         toDo={toDo}
         markDone={markDone}

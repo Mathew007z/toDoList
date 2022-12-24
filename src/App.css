@@ -1,21 +1,23 @@
 
-
-
-
-
 body{
-    color:#fff;
-    background-color: #333;
-
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    text-align: center;
+    height: 600px;
+    backdrop-filter: brightness(0.5);
+    background-image: url(https://yt3.ggpht.com/uYJOK3BNfif7vFR0CwvBhziC7F5FNwDi2Yyg-VZHDBwiLBicSBNAYCq3yIubxABGHKmC3sBAKA=s900-c-k-c0x00ffffff-no-rj);
 }
+
 
 .App{
     text-align: center;
-    
+
+   
 }
 
 .taskBg{
-    background-color: #555;
+    background-color: rgb(199, 198, 198);
     border-radius: 6px;
     margin-bottom: 20px;
     padding: 10px 140px 10px 15px;
@@ -86,4 +88,13 @@ body{
     margin-left: 1em;
     margin-right: 1em;
 }
+
+
+
+.title-tareas{
+    margin-top: 1em;
+    margin-bottom: 1em;
+  
+}
+
 
