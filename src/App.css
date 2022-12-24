@@ -2,16 +2,16 @@
 body{
     background-position: center;
     background-repeat: no-repeat;
-    background-size: contain;
     text-align: center;
-    height: 600px;
-    backdrop-filter: brightness(0.5);
+    height: 1200px;
+    backdrop-filter: brightness(0.6);
     background-image: url(https://yt3.ggpht.com/uYJOK3BNfif7vFR0CwvBhziC7F5FNwDi2Yyg-VZHDBwiLBicSBNAYCq3yIubxABGHKmC3sBAKA=s900-c-k-c0x00ffffff-no-rj);
 }
 
 
 .App{
     text-align: center;
+    
 
    
 }
@@ -92,8 +92,9 @@ body{
 
 
 .title-tareas{
-    margin-top: 1em;
+    padding-top: 1em;
     margin-bottom: 1em;
+    font-size: 30px;
   
 }
 

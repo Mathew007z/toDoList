@@ -95,6 +95,7 @@ const updateTask = () => {
 
     <div className='container App'>
       <h2 className='title-tareas'>Tareas Pendientes</h2>
+      <p className='title-tareas'> Pablo Acuña</p>
 
      
       {updateData && updateData ? (
