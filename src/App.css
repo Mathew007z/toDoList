@@ -1,11 +1,10 @@
 
 body{
-    background-position: center;
-    background-repeat: no-repeat;
+    
     text-align: center;
     height: 1200px;
     backdrop-filter: brightness(0.6);
-    background-image: url(https://yt3.ggpht.com/uYJOK3BNfif7vFR0CwvBhziC7F5FNwDi2Yyg-VZHDBwiLBicSBNAYCq3yIubxABGHKmC3sBAKA=s900-c-k-c0x00ffffff-no-rj);
+   
 }
 
 
@@ -97,5 +96,7 @@ body{
     font-size: 30px;
   
 }
+
+
 
 
